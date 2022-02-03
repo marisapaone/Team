@@ -3,8 +3,6 @@
  * @Marisa Paone
  */
 
-package cs520.hw3.part2;
-
 import java.io.File;
 
 import java.util.Scanner;
