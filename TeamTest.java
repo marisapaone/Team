@@ -1,5 +1,5 @@
 /**
- * TeamTest.java (Assignment 3, Part 2)
+ * TeamTest.java 
  * @Marisa Paone
  */
 
